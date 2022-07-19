@@ -1,0 +1,38 @@
+h1{
+    color:red;
+}
+
+img{
+    width:400px;
+}
+
+#thirdDiv {
+    height: 800px;
+    width: 500px;
+    background-color: antiquewhite;
+    padding: 50px;
+    border: 1px, solid, black
+}
+
+#spanId {
+        color: teal;
+        margin: 50px;
+}
+.divClass h1, h3, h4{
+    font-size: 30px;
+}
+
+body {
+    background-image: url("https://img.freepik.com/vector-gratis/fondo-comida-rapida-dibujado-mano_52683-21980.jpg?t=st=1658155359~exp=1658155959~hmac=882d9693a3d4c4c38bc24736a1dfae34bca27ca62c04f2afc0dc955e0fed4460&w=900");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: cover;
+    display: flex;
+    /* flex-direction: column; */
+    /* flex-grow: 100px ; */ 
+    flex-direction: column;
+    flex: 1 1 auto;
+    align-items: center;
+    justify-content: space-around;
+}
