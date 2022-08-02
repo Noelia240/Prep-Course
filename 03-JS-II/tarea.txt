@@ -1,0 +1,10 @@
+`for`
+* `&&`, `||`, `!`
+El bucle `for` se utiliza para repetir un bloque de codigo varias veces y no tener que escribir tantas lineas de codigo. 
+Evalua una expresión condicional. Si es true sigue ejecutandose hasta que se convierta en false y deje de hacerlo. 
+
+&& sirve para evaluar dos expresiones. Se traduce como SI. Si ambas expresiones son true, devolvera valor true. 
+Si una expresion es false, devolverá false; lo mismo si ambas son false. 
+
+|| Tambien evalua dos expresiones. Se traduce como O. Si ambas expresiones son true O unicamente una es true, devuelve 
+resultado true. Y si ambas son falsas, devolvera false. 
